@@ -441,7 +441,7 @@ The program is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# EXP-05-Rail Fence Cipher
 # DATE:
 
 # AIM:
